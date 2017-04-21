@@ -1,141 +1,141 @@
 <svg height="2206" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2206" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 15:37:36 +0000 14054686 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 15:37:36 +0000   175569 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 15:37:36 +0000     1091 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 15:37:36 +0000     1550 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 15:37:36 +0000     1739 bytes  blueprints/-addon-import.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 15:37:36 +0000      970 bytes  blueprints/acceptance-test/index.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 15:37:36 +0000      822 bytes  blueprints/acceptance-test/mocha-files/tests/acc\</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 15:38:40 +0000 14054686 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 15:38:40 +0000   175569 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 15:38:40 +0000     1091 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 15:38:40 +0000     1550 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 15:38:40 +0000     1739 bytes  blueprints/-addon-import.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 15:38:40 +0000      970 bytes  blueprints/acceptance-test/index.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 15:38:40 +0000      822 bytes  blueprints/acceptance-test/mocha-files/tests/acc\</tspan>
 <tspan x="10" y="138">eptance/__name__-test.js</tspan>
-<tspan x="10" y="154">  7.  2017-04-21 15:37:36 +0000      377 bytes  blueprints/acceptance-test/qunit-files/tests/acc\</tspan>
+<tspan x="10" y="154">  7.  2017-04-21 15:38:40 +0000      377 bytes  blueprints/acceptance-test/qunit-files/tests/acc\</tspan>
 <tspan x="10" y="170">eptance/__name__-test.js</tspan>
-<tspan x="10" y="186">  8.  2017-04-21 15:37:36 +0000       44 bytes  blueprints/component-addon/files/__root__/__path\</tspan>
+<tspan x="10" y="186">  8.  2017-04-21 15:38:40 +0000       44 bytes  blueprints/component-addon/files/__root__/__path\</tspan>
 <tspan x="10" y="202">__/__name__.js</tspan>
-<tspan x="10" y="218">  9.  2017-04-21 15:37:36 +0000     1706 bytes  blueprints/component-addon/index.js</tspan>
-<tspan x="10" y="234"> 10.  2017-04-21 15:37:36 +0000     2256 bytes  blueprints/component-test/index.js</tspan>
-<tspan x="10" y="250"> 11.  2017-04-21 15:37:36 +0000     1289 bytes  blueprints/component-test/mocha-0.12-files/tests\</tspan>
+<tspan x="10" y="218">  9.  2017-04-21 15:38:40 +0000     1706 bytes  blueprints/component-addon/index.js</tspan>
+<tspan x="10" y="234"> 10.  2017-04-21 15:38:40 +0000     2256 bytes  blueprints/component-test/index.js</tspan>
+<tspan x="10" y="250"> 11.  2017-04-21 15:38:40 +0000     1289 bytes  blueprints/component-test/mocha-0.12-files/tests\</tspan>
 <tspan x="10" y="266">/__testType__/__path__/__test__.js</tspan>
-<tspan x="10" y="282"> 12.  2017-04-21 15:37:36 +0000     1281 bytes  blueprints/component-test/mocha-files/tests/__te\</tspan>
+<tspan x="10" y="282"> 12.  2017-04-21 15:38:40 +0000     1281 bytes  blueprints/component-test/mocha-files/tests/__te\</tspan>
 <tspan x="10" y="298">stType__/__path__/__test__.js</tspan>
-<tspan x="10" y="314"> 13.  2017-04-21 15:37:36 +0000     1202 bytes  blueprints/component-test/qunit-files/tests/__te\</tspan>
+<tspan x="10" y="314"> 13.  2017-04-21 15:38:40 +0000     1202 bytes  blueprints/component-test/qunit-files/tests/__te\</tspan>
 <tspan x="10" y="330">stType__/__path__/__test__.js</tspan>
-<tspan x="10" y="346"> 14.  2017-04-21 15:37:36 +0000      108 bytes  blueprints/component/files/__root__/__path__/__n\</tspan>
+<tspan x="10" y="346"> 14.  2017-04-21 15:38:40 +0000      108 bytes  blueprints/component/files/__root__/__path__/__n\</tspan>
 <tspan x="10" y="362">ame__.js</tspan>
-<tspan x="10" y="378"> 15.  2017-04-21 15:37:36 +0000       10 bytes  blueprints/component/files/__root__/__templatepa\</tspan>
+<tspan x="10" y="378"> 15.  2017-04-21 15:38:40 +0000       10 bytes  blueprints/component/files/__root__/__templatepa\</tspan>
 <tspan x="10" y="394">th__/__templatename__.hbs</tspan>
-<tspan x="10" y="410"> 16.  2017-04-21 15:37:36 +0000     2191 bytes  blueprints/component/index.js</tspan>
-<tspan x="10" y="426"> 17.  2017-04-21 15:37:36 +0000      390 bytes  blueprints/controller-test/index.js</tspan>
-<tspan x="10" y="442"> 18.  2017-04-21 15:37:36 +0000      475 bytes  blueprints/controller-test/mocha-0.12-files/test\</tspan>
+<tspan x="10" y="410"> 16.  2017-04-21 15:38:40 +0000     2191 bytes  blueprints/component/index.js</tspan>
+<tspan x="10" y="426"> 17.  2017-04-21 15:38:40 +0000      390 bytes  blueprints/controller-test/index.js</tspan>
+<tspan x="10" y="442"> 18.  2017-04-21 15:38:40 +0000      475 bytes  blueprints/controller-test/mocha-0.12-files/test\</tspan>
 <tspan x="10" y="458">s/unit/__path__/__test__.js</tspan>
-<tspan x="10" y="474"> 19.  2017-04-21 15:37:36 +0000      455 bytes  blueprints/controller-test/mocha-files/tests/uni\</tspan>
+<tspan x="10" y="474"> 19.  2017-04-21 15:38:40 +0000      455 bytes  blueprints/controller-test/mocha-files/tests/uni\</tspan>
 <tspan x="10" y="490">t/__path__/__test__.js</tspan>
-<tspan x="10" y="506"> 20.  2017-04-21 15:37:36 +0000      373 bytes  blueprints/controller-test/qunit-files/tests/uni\</tspan>
+<tspan x="10" y="506"> 20.  2017-04-21 15:38:40 +0000      373 bytes  blueprints/controller-test/qunit-files/tests/uni\</tspan>
 <tspan x="10" y="522">t/__path__/__test__.js</tspan>
-<tspan x="10" y="538"> 21.  2017-04-21 15:37:36 +0000       73 bytes  blueprints/controller/files/__root__/__path__/__\</tspan>
+<tspan x="10" y="538"> 21.  2017-04-21 15:38:40 +0000       73 bytes  blueprints/controller/files/__root__/__path__/__\</tspan>
 <tspan x="10" y="554">name__.js</tspan>
-<tspan x="10" y="570"> 22.  2017-04-21 15:37:36 +0000       86 bytes  blueprints/controller/index.js</tspan>
-<tspan x="10" y="586"> 23.  2017-04-21 15:37:36 +0000       73 bytes  blueprints/helper-addon/files/__root__/__path__/\</tspan>
+<tspan x="10" y="570"> 22.  2017-04-21 15:38:40 +0000       86 bytes  blueprints/controller/index.js</tspan>
+<tspan x="10" y="586"> 23.  2017-04-21 15:38:40 +0000       73 bytes  blueprints/helper-addon/files/__root__/__path__/\</tspan>
 <tspan x="10" y="602">__name__.js</tspan>
-<tspan x="10" y="618"> 24.  2017-04-21 15:37:36 +0000       69 bytes  blueprints/helper-addon/index.js</tspan>
-<tspan x="10" y="634"> 25.  2017-04-21 15:37:36 +0000     1565 bytes  blueprints/helper-test/index.js</tspan>
-<tspan x="10" y="650"> 26.  2017-04-21 15:37:36 +0000     1247 bytes  blueprints/helper-test/mocha-0.12-files/tests/__\</tspan>
+<tspan x="10" y="618"> 24.  2017-04-21 15:38:40 +0000       69 bytes  blueprints/helper-addon/index.js</tspan>
+<tspan x="10" y="634"> 25.  2017-04-21 15:38:40 +0000     1565 bytes  blueprints/helper-test/index.js</tspan>
+<tspan x="10" y="650"> 26.  2017-04-21 15:38:40 +0000     1247 bytes  blueprints/helper-test/mocha-0.12-files/tests/__\</tspan>
 <tspan x="10" y="666">testType__/helpers/__name__-test.js</tspan>
-<tspan x="10" y="682"> 27.  2017-04-21 15:37:36 +0000     1244 bytes  blueprints/helper-test/mocha-files/tests/__testT\</tspan>
+<tspan x="10" y="682"> 27.  2017-04-21 15:38:40 +0000     1244 bytes  blueprints/helper-test/mocha-files/tests/__testT\</tspan>
 <tspan x="10" y="698">ype__/helpers/__name__-test.js</tspan>
-<tspan x="10" y="714"> 28.  2017-04-21 15:37:36 +0000      867 bytes  blueprints/helper-test/qunit-files/tests/__testT\</tspan>
+<tspan x="10" y="714"> 28.  2017-04-21 15:38:40 +0000      867 bytes  blueprints/helper-test/qunit-files/tests/__testT\</tspan>
 <tspan x="10" y="730">ype__/helpers/__name__-test.js</tspan>
-<tspan x="10" y="746"> 29.  2017-04-21 15:37:36 +0000      175 bytes  blueprints/helper/files/__root__/helpers/__name_\</tspan>
+<tspan x="10" y="746"> 29.  2017-04-21 15:38:40 +0000      175 bytes  blueprints/helper/files/__root__/helpers/__name_\</tspan>
 <tspan x="10" y="762">_.js</tspan>
-<tspan x="10" y="778"> 30.  2017-04-21 15:37:36 +0000      270 bytes  blueprints/helper/index.js</tspan>
-<tspan x="10" y="794"> 31.  2017-04-21 15:37:36 +0000       57 bytes  blueprints/initializer-addon/files/__root__/__pa\</tspan>
+<tspan x="10" y="778"> 30.  2017-04-21 15:38:40 +0000      270 bytes  blueprints/helper/index.js</tspan>
+<tspan x="10" y="794"> 31.  2017-04-21 15:38:40 +0000       57 bytes  blueprints/initializer-addon/files/__root__/__pa\</tspan>
 <tspan x="10" y="810">th__/__name__.js</tspan>
-<tspan x="10" y="826"> 32.  2017-04-21 15:37:36 +0000       69 bytes  blueprints/initializer-addon/index.js</tspan>
-<tspan x="10" y="842"> 33.  2017-04-21 15:37:36 +0000      524 bytes  blueprints/initializer-test/index.js</tspan>
-<tspan x="10" y="858"> 34.  2017-04-21 15:37:36 +0000      748 bytes  blueprints/initializer-test/mocha-files/tests/un\</tspan>
+<tspan x="10" y="826"> 32.  2017-04-21 15:38:40 +0000       69 bytes  blueprints/initializer-addon/index.js</tspan>
+<tspan x="10" y="842"> 33.  2017-04-21 15:38:40 +0000      524 bytes  blueprints/initializer-test/index.js</tspan>
+<tspan x="10" y="858"> 34.  2017-04-21 15:38:40 +0000      748 bytes  blueprints/initializer-test/mocha-files/tests/un\</tspan>
 <tspan x="10" y="874">it/initializers/__name__-test.js</tspan>
-<tspan x="10" y="890"> 35.  2017-04-21 15:37:36 +0000      658 bytes  blueprints/initializer-test/qunit-files/tests/un\</tspan>
+<tspan x="10" y="890"> 35.  2017-04-21 15:38:40 +0000      658 bytes  blueprints/initializer-test/qunit-files/tests/un\</tspan>
 <tspan x="10" y="906">it/initializers/__name__-test.js</tspan>
-<tspan x="10" y="922"> 36.  2017-04-21 15:37:36 +0000      179 bytes  blueprints/initializer/files/__root__/initialize\</tspan>
+<tspan x="10" y="922"> 36.  2017-04-21 15:38:40 +0000      179 bytes  blueprints/initializer/files/__root__/initialize\</tspan>
 <tspan x="10" y="938">rs/__name__.js</tspan>
-<tspan x="10" y="954"> 37.  2017-04-21 15:37:36 +0000       88 bytes  blueprints/initializer/index.js</tspan>
-<tspan x="10" y="970"> 38.  2017-04-21 15:37:36 +0000       57 bytes  blueprints/instance-initializer-addon/files/__ro\</tspan>
+<tspan x="10" y="954"> 37.  2017-04-21 15:38:40 +0000       88 bytes  blueprints/initializer/index.js</tspan>
+<tspan x="10" y="970"> 38.  2017-04-21 15:38:40 +0000       57 bytes  blueprints/instance-initializer-addon/files/__ro\</tspan>
 <tspan x="10" y="986">ot__/__path__/__name__.js</tspan>
-<tspan x="10" y="1002"> 39.  2017-04-21 15:37:36 +0000       69 bytes  blueprints/instance-initializer-addon/index.js</tspan>
-<tspan x="10" y="1018"> 40.  2017-04-21 15:37:36 +0000      542 bytes  blueprints/instance-initializer-test/index.js</tspan>
-<tspan x="10" y="1034"> 41.  2017-04-21 15:37:36 +0000      822 bytes  blueprints/instance-initializer-test/mocha-files\</tspan>
+<tspan x="10" y="1002"> 39.  2017-04-21 15:38:40 +0000       69 bytes  blueprints/instance-initializer-addon/index.js</tspan>
+<tspan x="10" y="1018"> 40.  2017-04-21 15:38:40 +0000      542 bytes  blueprints/instance-initializer-test/index.js</tspan>
+<tspan x="10" y="1034"> 41.  2017-04-21 15:38:40 +0000      822 bytes  blueprints/instance-initializer-test/mocha-files\</tspan>
 <tspan x="10" y="1050">/tests/unit/instance-initializers/__name__-test.js</tspan>
-<tspan x="10" y="1066"> 42.  2017-04-21 15:37:36 +0000      729 bytes  blueprints/instance-initializer-test/qunit-files\</tspan>
+<tspan x="10" y="1066"> 42.  2017-04-21 15:38:40 +0000      729 bytes  blueprints/instance-initializer-test/qunit-files\</tspan>
 <tspan x="10" y="1082">/tests/unit/instance-initializers/__name__-test.js</tspan>
-<tspan x="10" y="1098"> 43.  2017-04-21 15:37:36 +0000      179 bytes  blueprints/instance-initializer/files/__root__/i\</tspan>
+<tspan x="10" y="1098"> 43.  2017-04-21 15:38:40 +0000      179 bytes  blueprints/instance-initializer/files/__root__/i\</tspan>
 <tspan x="10" y="1114">nstance-initializers/__name__.js</tspan>
-<tspan x="10" y="1130"> 44.  2017-04-21 15:37:36 +0000       97 bytes  blueprints/instance-initializer/index.js</tspan>
-<tspan x="10" y="1146"> 45.  2017-04-21 15:37:36 +0000      453 bytes  blueprints/mixin-test/index.js</tspan>
-<tspan x="10" y="1162"> 46.  2017-04-21 15:37:36 +0000      526 bytes  blueprints/mixin-test/mocha-files/tests/unit/mix\</tspan>
+<tspan x="10" y="1130"> 44.  2017-04-21 15:38:40 +0000       97 bytes  blueprints/instance-initializer/index.js</tspan>
+<tspan x="10" y="1146"> 45.  2017-04-21 15:38:40 +0000      453 bytes  blueprints/mixin-test/index.js</tspan>
+<tspan x="10" y="1162"> 46.  2017-04-21 15:38:40 +0000      526 bytes  blueprints/mixin-test/mocha-files/tests/unit/mix\</tspan>
 <tspan x="10" y="1178">ins/__name__-test.js</tspan>
-<tspan x="10" y="1194"> 47.  2017-04-21 15:37:36 +0000      461 bytes  blueprints/mixin-test/qunit-files/tests/unit/mix\</tspan>
+<tspan x="10" y="1194"> 47.  2017-04-21 15:38:40 +0000      461 bytes  blueprints/mixin-test/qunit-files/tests/unit/mix\</tspan>
 <tspan x="10" y="1210">ins/__name__-test.js</tspan>
-<tspan x="10" y="1226"> 48.  2017-04-21 15:37:36 +0000       68 bytes  blueprints/mixin/files/__root__/mixins/__name__.\</tspan>
+<tspan x="10" y="1226"> 48.  2017-04-21 15:38:40 +0000       68 bytes  blueprints/mixin/files/__root__/mixins/__name__.\</tspan>
 <tspan x="10" y="1242">js</tspan>
-<tspan x="10" y="1258"> 49.  2017-04-21 15:37:36 +0000       81 bytes  blueprints/mixin/index.js</tspan>
-<tspan x="10" y="1274"> 50.  2017-04-21 15:37:36 +0000       50 bytes  blueprints/route-addon/files/__root__/__path__/_\</tspan>
+<tspan x="10" y="1258"> 49.  2017-04-21 15:38:40 +0000       81 bytes  blueprints/mixin/index.js</tspan>
+<tspan x="10" y="1274"> 50.  2017-04-21 15:38:40 +0000       50 bytes  blueprints/route-addon/files/__root__/__path__/_\</tspan>
 <tspan x="10" y="1290">_name__.js</tspan>
-<tspan x="10" y="1306"> 51.  2017-04-21 15:37:36 +0000       53 bytes  blueprints/route-addon/files/__root__/__template\</tspan>
+<tspan x="10" y="1306"> 51.  2017-04-21 15:38:40 +0000       53 bytes  blueprints/route-addon/files/__root__/__template\</tspan>
 <tspan x="10" y="1322">path__/__templatename__.js</tspan>
-<tspan x="10" y="1338"> 52.  2017-04-21 15:37:36 +0000     1783 bytes  blueprints/route-addon/index.js</tspan>
-<tspan x="10" y="1354"> 53.  2017-04-21 15:37:36 +0000      381 bytes  blueprints/route-test/index.js</tspan>
-<tspan x="10" y="1370"> 54.  2017-04-21 15:37:36 +0000      420 bytes  blueprints/route-test/mocha-0.12-files/tests/uni\</tspan>
+<tspan x="10" y="1338"> 52.  2017-04-21 15:38:40 +0000     1783 bytes  blueprints/route-addon/index.js</tspan>
+<tspan x="10" y="1354"> 53.  2017-04-21 15:38:40 +0000      381 bytes  blueprints/route-test/index.js</tspan>
+<tspan x="10" y="1370"> 54.  2017-04-21 15:38:40 +0000      420 bytes  blueprints/route-test/mocha-0.12-files/tests/uni\</tspan>
 <tspan x="10" y="1386">t/__path__/__test__.js</tspan>
-<tspan x="10" y="1402"> 55.  2017-04-21 15:37:36 +0000      398 bytes  blueprints/route-test/mocha-files/tests/unit/__p\</tspan>
+<tspan x="10" y="1402"> 55.  2017-04-21 15:38:40 +0000      398 bytes  blueprints/route-test/mocha-files/tests/unit/__p\</tspan>
 <tspan x="10" y="1418">ath__/__test__.js</tspan>
-<tspan x="10" y="1434"> 56.  2017-04-21 15:37:36 +0000      320 bytes  blueprints/route-test/qunit-files/tests/unit/__p\</tspan>
+<tspan x="10" y="1434"> 56.  2017-04-21 15:38:40 +0000      320 bytes  blueprints/route-test/qunit-files/tests/unit/__p\</tspan>
 <tspan x="10" y="1450">ath__/__test__.js</tspan>
-<tspan x="10" y="1466"> 57.  2017-04-21 15:37:36 +0000       68 bytes  blueprints/route/files/__root__/__path__/__name_\</tspan>
+<tspan x="10" y="1466"> 57.  2017-04-21 15:38:40 +0000       68 bytes  blueprints/route/files/__root__/__path__/__name_\</tspan>
 <tspan x="10" y="1482">_.js</tspan>
-<tspan x="10" y="1498"> 58.  2017-04-21 15:37:36 +0000       11 bytes  blueprints/route/files/__root__/__templatepath__\</tspan>
+<tspan x="10" y="1498"> 58.  2017-04-21 15:38:40 +0000       11 bytes  blueprints/route/files/__root__/__templatepath__\</tspan>
 <tspan x="10" y="1514">/__templatename__.hbs</tspan>
-<tspan x="10" y="1530"> 59.  2017-04-21 15:37:36 +0000     3153 bytes  blueprints/route/index.js</tspan>
-<tspan x="10" y="1546"> 60.  2017-04-21 15:37:36 +0000      385 bytes  blueprints/service-test/index.js</tspan>
-<tspan x="10" y="1562"> 61.  2017-04-21 15:37:36 +0000      463 bytes  blueprints/service-test/mocha-0.12-files/tests/u\</tspan>
+<tspan x="10" y="1530"> 59.  2017-04-21 15:38:40 +0000     3153 bytes  blueprints/route/index.js</tspan>
+<tspan x="10" y="1546"> 60.  2017-04-21 15:38:40 +0000      385 bytes  blueprints/service-test/index.js</tspan>
+<tspan x="10" y="1562"> 61.  2017-04-21 15:38:40 +0000      463 bytes  blueprints/service-test/mocha-0.12-files/tests/u\</tspan>
 <tspan x="10" y="1578">nit/__path__/__name__-test.js</tspan>
-<tspan x="10" y="1594"> 62.  2017-04-21 15:37:36 +0000      443 bytes  blueprints/service-test/mocha-files/tests/unit/_\</tspan>
+<tspan x="10" y="1594"> 62.  2017-04-21 15:38:40 +0000      443 bytes  blueprints/service-test/mocha-files/tests/unit/_\</tspan>
 <tspan x="10" y="1610">_path__/__name__-test.js</tspan>
-<tspan x="10" y="1626"> 63.  2017-04-21 15:37:36 +0000      361 bytes  blueprints/service-test/qunit-files/tests/unit/_\</tspan>
+<tspan x="10" y="1626"> 63.  2017-04-21 15:38:40 +0000      361 bytes  blueprints/service-test/qunit-files/tests/unit/_\</tspan>
 <tspan x="10" y="1642">_path__/__test__.js</tspan>
-<tspan x="10" y="1658"> 64.  2017-04-21 15:37:36 +0000       70 bytes  blueprints/service/files/__root__/__path__/__nam\</tspan>
+<tspan x="10" y="1658"> 64.  2017-04-21 15:38:40 +0000       70 bytes  blueprints/service/files/__root__/__path__/__nam\</tspan>
 <tspan x="10" y="1674">e__.js</tspan>
-<tspan x="10" y="1690"> 65.  2017-04-21 15:37:36 +0000       83 bytes  blueprints/service/index.js</tspan>
-<tspan x="10" y="1706"> 66.  2017-04-21 15:37:36 +0000        0 bytes  blueprints/template/files/__root__/__path__/__na\</tspan>
+<tspan x="10" y="1690"> 65.  2017-04-21 15:38:40 +0000       83 bytes  blueprints/service/index.js</tspan>
+<tspan x="10" y="1706"> 66.  2017-04-21 15:38:40 +0000        0 bytes  blueprints/template/files/__root__/__path__/__na\</tspan>
 <tspan x="10" y="1722">me__.hbs</tspan>
-<tspan x="10" y="1738"> 67.  2017-04-21 15:37:36 +0000       84 bytes  blueprints/template/index.js</tspan>
-<tspan x="10" y="1754"> 68.  2017-04-21 15:37:36 +0000      899 bytes  blueprints/test-framework-detector.js</tspan>
-<tspan x="10" y="1770"> 69.  2017-04-21 15:37:36 +0000      125 bytes  blueprints/test-helper/files/tests/helpers/__nam\</tspan>
+<tspan x="10" y="1738"> 67.  2017-04-21 15:38:40 +0000       84 bytes  blueprints/template/index.js</tspan>
+<tspan x="10" y="1754"> 68.  2017-04-21 15:38:40 +0000      899 bytes  blueprints/test-framework-detector.js</tspan>
+<tspan x="10" y="1770"> 69.  2017-04-21 15:38:40 +0000      125 bytes  blueprints/test-helper/files/tests/helpers/__nam\</tspan>
 <tspan x="10" y="1786">e__.js</tspan>
-<tspan x="10" y="1802"> 70.  2017-04-21 15:37:36 +0000       87 bytes  blueprints/test-helper/index.js</tspan>
-<tspan x="10" y="1818"> 71.  2017-04-21 15:37:36 +0000      517 bytes  blueprints/util-test/index.js</tspan>
-<tspan x="10" y="1834"> 72.  2017-04-21 15:37:36 +0000      377 bytes  blueprints/util-test/mocha-files/tests/unit/util\</tspan>
+<tspan x="10" y="1802"> 70.  2017-04-21 15:38:40 +0000       87 bytes  blueprints/test-helper/index.js</tspan>
+<tspan x="10" y="1818"> 71.  2017-04-21 15:38:40 +0000      517 bytes  blueprints/util-test/index.js</tspan>
+<tspan x="10" y="1834"> 72.  2017-04-21 15:38:40 +0000      377 bytes  blueprints/util-test/mocha-files/tests/unit/util\</tspan>
 <tspan x="10" y="1850">s/__name__-test.js</tspan>
-<tspan x="10" y="1866"> 73.  2017-04-21 15:37:36 +0000      325 bytes  blueprints/util-test/qunit-files/tests/unit/util\</tspan>
+<tspan x="10" y="1866"> 73.  2017-04-21 15:38:40 +0000      325 bytes  blueprints/util-test/qunit-files/tests/unit/util\</tspan>
 <tspan x="10" y="1882">s/__name__-test.js</tspan>
-<tspan x="10" y="1898"> 74.  2017-04-21 15:37:36 +0000       72 bytes  blueprints/util/files/__root__/utils/__name__.js</tspan>
-<tspan x="10" y="1914"> 75.  2017-04-21 15:37:36 +0000      106 bytes  blueprints/util/index.js</tspan>
-<tspan x="10" y="1930"> 76.  2017-04-21 15:37:36 +0000      311 bytes  dist/bower.json</tspan>
-<tspan x="10" y="1946"> 77.  2017-04-21 15:37:36 +0000      286 bytes  dist/component.json</tspan>
-<tspan x="10" y="1962"> 78.  2017-04-21 15:37:36 +0000      584 bytes  dist/composer.json</tspan>
-<tspan x="10" y="1978"> 79.  2017-04-21 15:37:36 +0000   691611 bytes  dist/ember-runtime.js</tspan>
-<tspan x="10" y="1994"> 80.  2017-04-21 15:37:36 +0000   970257 bytes  dist/ember-template-compiler.js</tspan>
-<tspan x="10" y="2010"> 81.  2017-04-21 15:37:36 +0000    74489 bytes  dist/ember-testing.js</tspan>
-<tspan x="10" y="2026"> 82.  2017-04-21 15:37:36 +0000  2838436 bytes  dist/ember-tests.js</tspan>
-<tspan x="10" y="2042"> 83.  2017-04-21 15:37:36 +0000  2824757 bytes  dist/ember-tests.prod.js</tspan>
-<tspan x="10" y="2058"> 84.  2017-04-21 15:37:36 +0000     8079 bytes  dist/ember-tests/index.html</tspan>
-<tspan x="10" y="2074"> 85.  2017-04-21 15:37:36 +0000  2006363 bytes  dist/ember.debug.js</tspan>
-<tspan x="10" y="2090"> 86.  2017-04-21 15:37:36 +0000  2006362 bytes  dist/ember.js</tspan>
-<tspan x="10" y="2106"> 87.  2017-04-21 15:37:36 +0000   532240 bytes  dist/ember.min.js</tspan>
-<tspan x="10" y="2122"> 88.  2017-04-21 15:37:36 +0000  1871329 bytes  dist/ember.prod.js</tspan>
-<tspan x="10" y="2138"> 89.  2017-04-21 15:37:36 +0000      591 bytes  dist/package.json</tspan>
-<tspan x="10" y="2154"> 90.  2017-04-21 15:37:36 +0000     1971 bytes  index.js</tspan>
-<tspan x="10" y="2170"> 91.  2017-04-21 15:37:36 +0000     2706 bytes  package.json</tspan>
-<tspan x="10" y="2186"> 92.  2017-04-21 15:37:36 +0000     7306 bytes  vendor/ember/shims.js</tspan>
+<tspan x="10" y="1898"> 74.  2017-04-21 15:38:40 +0000       72 bytes  blueprints/util/files/__root__/utils/__name__.js</tspan>
+<tspan x="10" y="1914"> 75.  2017-04-21 15:38:40 +0000      106 bytes  blueprints/util/index.js</tspan>
+<tspan x="10" y="1930"> 76.  2017-04-21 15:38:40 +0000      311 bytes  dist/bower.json</tspan>
+<tspan x="10" y="1946"> 77.  2017-04-21 15:38:40 +0000      286 bytes  dist/component.json</tspan>
+<tspan x="10" y="1962"> 78.  2017-04-21 15:38:40 +0000      584 bytes  dist/composer.json</tspan>
+<tspan x="10" y="1978"> 79.  2017-04-21 15:38:40 +0000   691611 bytes  dist/ember-runtime.js</tspan>
+<tspan x="10" y="1994"> 80.  2017-04-21 15:38:40 +0000   970257 bytes  dist/ember-template-compiler.js</tspan>
+<tspan x="10" y="2010"> 81.  2017-04-21 15:38:40 +0000    74489 bytes  dist/ember-testing.js</tspan>
+<tspan x="10" y="2026"> 82.  2017-04-21 15:38:40 +0000  2838436 bytes  dist/ember-tests.js</tspan>
+<tspan x="10" y="2042"> 83.  2017-04-21 15:38:40 +0000  2824757 bytes  dist/ember-tests.prod.js</tspan>
+<tspan x="10" y="2058"> 84.  2017-04-21 15:38:40 +0000     8079 bytes  dist/ember-tests/index.html</tspan>
+<tspan x="10" y="2074"> 85.  2017-04-21 15:38:40 +0000  2006363 bytes  dist/ember.debug.js</tspan>
+<tspan x="10" y="2090"> 86.  2017-04-21 15:38:40 +0000  2006362 bytes  dist/ember.js</tspan>
+<tspan x="10" y="2106"> 87.  2017-04-21 15:38:40 +0000   532240 bytes  dist/ember.min.js</tspan>
+<tspan x="10" y="2122"> 88.  2017-04-21 15:38:40 +0000  1871329 bytes  dist/ember.prod.js</tspan>
+<tspan x="10" y="2138"> 89.  2017-04-21 15:38:40 +0000      591 bytes  dist/package.json</tspan>
+<tspan x="10" y="2154"> 90.  2017-04-21 15:38:40 +0000     1971 bytes  index.js</tspan>
+<tspan x="10" y="2170"> 91.  2017-04-21 15:38:40 +0000     2706 bytes  package.json</tspan>
+<tspan x="10" y="2186"> 92.  2017-04-21 15:38:40 +0000     7306 bytes  vendor/ember/shims.js</tspan>
 </text>
 </svg>
